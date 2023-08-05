@@ -1,6 +1,6 @@
 # AStarPathfinding
 
-A Star Pathfinding algorithm with interactive GUI
+A-Star Pathfinding algorithm with interactive GUI
 
 The GUI has a Map Generator button that randomly assigns each block an empty or full space. 
 
